@@ -1,0 +1,167 @@
+*{
+  background-color:#ffa500 ;   
+  padding: 0;
+    margin: 0;
+  
+    }
+    a:link {
+        color: #0000FF;
+        background-color: transparent;
+        text-decoration: none;
+      }
+    
+      
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+        h2 span{
+            color: rgb(245, 8, 8);
+        }
+    .home{
+    height: 45px;
+    background-color: transparent;
+    color: black;
+    }
+    header nav ul{
+        position: fixed;
+        display: flex;
+        margin-left: 80%;
+    }
+    
+    header nav ul li{
+       
+    padding-left: 10%;
+    }
+    
+    
+    section{
+    height: 100vh;
+    border: none solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .Container{
+    margin-top: 10%
+    }
+   
+    #head{
+      font-style: italic;
+      font-size: 60px;
+      font-family: monospace;
+    }
+    
+    .Container h2{
+    margin-top: 3%;
+    font-family: fantasy;
+    }
+    
+    footer {
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
+    }
+
+    *{
+      
+        padding: 0;
+        margin: 0;
+        }
+        
+        header{
+        height: 45px;
+        }
+        header nav ul{
+        display: flex;
+        margin-left: 70%;
+        list-style: none;
+        }
+        
+        header nav ul li{
+        padding-left: 10%;
+
+        }
+        
+        header a{
+        text-decoration: none;
+        color: white;
+        
+        }
+        
+        section{
+        height: 100vh;
+        border: none solid red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+        #about h1{
+          color: rgb(245, 8, 8);
+          text-align: center;
+          font-size: 40px ;
+        }
+        
+        #contact h1{
+          color: rgb(245, 8, 8); 
+          text-align: center;
+          font-size: 40px ;
+        }
+        
+        
+        .Container img{
+        height: 200px;
+        border-radius: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        
+        }
+        #about img{
+          height: 200px;
+          border-radius: 100%;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+          
+          }
+        .Container h2{
+        margin-top: 2%;
+        font-size: 3em;
+        font-family:'Times New Roman', Times, serif;
+        }
+        .Container p, ul{
+        margin-top: 2%;
+        font-size: 1.5rem;
+        }
+        
+        footer {
+        line-height: 40px;
+        display: flex;
+        justify-content: center;
+        font-size: 1rem;
+        background-color: rgb(247, 162, 6);
+        }
+
+        #intro {
+          background:linear-gradient(#ffa500,#Ff4500,blue) ;   
+          background-repeat: round;
+            color: black;
+            text-align: center;
+            }
+            #about{
+           background-color:rgb(250, 233, 1) ;   
+           color: black;
+            text-align: center;
+            }
+            #contact{
+              background-color:rgb(255, 145, 0) ;   
+              color: black;
+            text-align: center;
+            }
+            
