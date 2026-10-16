@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Tadesse%20Mersha&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
 <div align="center">
 
 <table>
