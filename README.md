@@ -191,13 +191,7 @@ A modern portfolio website to showcase skills, projects and journey.
 </p>
 
 ---
-### 📊 My 3D Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tademf/tademf/main/profile-3d-contrib/profile-night-view.svg" alt="Tadesse's 3D Contribution Graph" />
-</p>
-
----
 
 ## 🎯 My Engineering Goals
 
