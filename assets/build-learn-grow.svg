@@ -1,1 +1,13 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="160" viewBox="0 0 220 160">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <text x="10" y="45" font-family="Georgia, serif" font-style="italic" font-size="30" font-weight="bold" fill="url(#grad1)">Build</text>
+  <text x="30" y="85" font-family="Georgia, serif" font-style="italic" font-size="30" font-weight="bold" fill="url(#grad1)">Learn</text>
+  <text x="50" y="125" font-family="Georgia, serif" font-style="italic" font-size="30" font-weight="bold" fill="url(#grad1)">Grow</text>
+  <path d="M 10 135 Q 80 165 190 125" stroke="url(#grad1)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 155 130 L 190 125 L 175 110" stroke="url(#grad1)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>
