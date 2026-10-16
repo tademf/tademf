@@ -3,8 +3,7 @@
 <table>
 <tr>
 <td width="30%" valign="middle">
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/photo_2026-03-21_15-40-54.jpg" width="160" style="border-radius:50%; border:4px solid #3b82f6;" alt="Tadesse Mersha"/>
-</td>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/profile.png" width="160" style="border-radius:50%; border:4px solid #3b82f6; box-shadow: 0 0 25px #3b82f6;" alt="Tadesse Mersha"/></td>
 <td width="45%" valign="middle" align="left">
 
 <h1>Hi, I'm <span style="color:#8b5cf6;">Tadesse Mersha</span> 👋</h1>
