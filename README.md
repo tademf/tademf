@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="30%" valign="middle">
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/profile.png" width="160" style="border-radius:50%; border:4px solid #3b82f6;" alt="Tadesse Mersha"/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/photo_2026-03-21_15-40-54.jpg" width="160" style="border-radius:50%; border:4px solid #3b82f6;" alt="Tadesse Mersha"/>
 </td>
 <td width="45%" valign="middle" align="left">
 
@@ -23,6 +23,14 @@
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Django+%7C+React+%7C+Laravel;Building+Real-World+Applications;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tademf&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+</p>
 
 </div>
 
@@ -152,6 +160,14 @@ A modern portfolio website to showcase skills, projects and journey.
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tademf&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📊 GitHub Overview
 
 <p align="center">
@@ -163,6 +179,15 @@ A modern portfolio website to showcase skills, projects and journey.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tademf&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tademf&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tademf&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tademf&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🎯 My Engineering Goals
@@ -172,6 +197,15 @@ A modern portfolio website to showcase skills, projects and journey.
 - Write effective automated tests and well-documented code
 - Contribute to open-source software and collaborate with other developers
 - Keep learning modern tools and engineering best practices
+
+---
+
+## 📚 Currently Learning
+
+- 🔷 Advanced Django (Celery, Channels, caching)
+- ⚛️ TypeScript + Next.js 14
+- 🐳 Docker & CI/CD pipelines
+- ☁️ AWS (EC2, S3, RDS)
 
 ---
 
