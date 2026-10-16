@@ -1,1 +1,12 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg4)"/>
+  <text x="400" y="200" font-family="Arial, sans-serif" font-size="70" fill="#8b5cf6" text-anchor="middle" font-weight="bold">PORTFOLIO</text>
+  <text x="400" y="270" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">Personal Portfolio</text>
+  <text x="400" y="320" font-family="Arial, sans-serif" font-size="18" fill="#94a3b8" text-anchor="middle">Next.js - Tailwind - React</text>
+</svg>
