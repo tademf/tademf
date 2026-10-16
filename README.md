@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="30%" valign="middle">
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/profile.jpg" width="160" style="border-radius:50%; border:4px solid #3b82f6;" alt="Tadesse Mersha"/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/profile.png" width="160" style="border-radius:50%; border:4px solid #3b82f6;" alt="Tadesse Mersha"/>
 </td>
 <td width="45%" valign="middle" align="left">
 
