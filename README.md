@@ -1,20 +1,28 @@
 <div align="center">
 
-<!-- Replace with your actual profile image URL after uploading to your repo -->
+<table>
+<tr>
+<td width="30%" valign="middle">
 <img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/profile.png" width="160" style="border-radius:50%; border:4px solid #3b82f6;" alt="Tadesse Mersha"/>
+</td>
+<td width="45%" valign="middle" align="left">
 
 <h1>Hi, I'm <span style="color:#8b5cf6;">Tadesse Mersha</span> 👋</h1>
 
 <h3>Software Engineering Student | Full-Stack Developer</h3>
 
-<p>
-I am a Software Engineering student passionate about designing, developing,and deploying web applications that solve real-world problems.<br/>
-My interests include full-stack development, REST API design, database management, and building reliable, maintainable software.
-</p>
+<p>I build web applications that solve real-world problems. Passionate about clean code, scalable systems, and creating great user experiences.<br/>Always learning, always building.</p>
 
-<p>
 📍 Ethiopia &nbsp;•&nbsp; 🎓 Software Engineering &nbsp;•&nbsp; 💻 Open to Opportunities
-</p>
+
+</td>
+<td width="25%" valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/build-learn-grow.svg" width="180"/>
+<br/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/code-icon.svg" width="70"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -72,7 +80,7 @@ My interests include full-stack development, REST API design, database managemen
 <td width="50%" valign="top">
 
 ### 🎓 Unified Smart Campus
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project1.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project1-campus.svg" width="100%"/>
 
 A smart campus application designed to support university and academic management workflows.
 
@@ -90,7 +98,7 @@ A smart campus application designed to support university and academic managemen
 <td width="50%" valign="top">
 
 ### 🛒 Multi-Vendor E-Commerce
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project2.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project2-ecommerce.svg" width="100%"/>
 
 A multi-vendor commerce project focused on product management, vendor workflows, and online shopping.
 
@@ -110,7 +118,7 @@ A multi-vendor commerce project focused on product management, vendor workflows,
 <td width="50%" valign="top">
 
 ### 🎵 React Music Player
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project3.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project3-music.svg" width="100%"/>
 
 A music player application built to explore interactive interfaces and reusable React components.
 
@@ -128,7 +136,7 @@ A music player application built to explore interactive interfaces and reusable 
 <td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
-<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project4.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/tademf/tademf/main/assets/project4-portfolio.svg" width="100%"/>
 
 A modern portfolio website to showcase skills, projects and journey.
 
@@ -171,8 +179,8 @@ A modern portfolio website to showcase skills, projects and journey.
 
 <p align="center">
 <a href="https://github.com/tademf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/tadesse-mersha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tadesse@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <div align="center">
